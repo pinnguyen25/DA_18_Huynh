@@ -1,0 +1,263 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ktpm\\DA_18_Huynh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{323E534D-B0A9-4516-8B6F-91314A44480A}|DA_18_Huynh\\DA_18_Huynh.csproj|d:\\ktpm\\da_18_huynh\\da_18_huynh\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{323E534D-B0A9-4516-8B6F-91314A44480A}|DA_18_Huynh\\DA_18_Huynh.csproj|solutionrelative:da_18_huynh\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{323E534D-B0A9-4516-8B6F-91314A44480A}|DA_18_Huynh\\DA_18_Huynh.csproj|D:\\ktpm\\DA_18_Huynh\\da_18_huynh\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{323E534D-B0A9-4516-8B6F-91314A44480A}|DA_18_Huynh\\DA_18_Huynh.csproj|solutionrelative:da_18_huynh\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3BB80CD-1AB1-4399-8E3A-82E934EA574E}|Test_Web_18\\Test_Web_18.csproj|D:\\ktpm\\DA_18_Huynh\\test_web_18\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3BB80CD-1AB1-4399-8E3A-82E934EA574E}|Test_Web_18\\Test_Web_18.csproj|solutionrelative:test_web_18\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{323E534D-B0A9-4516-8B6F-91314A44480A}|DA_18_Huynh\\DA_18_Huynh.csproj|d:\\ktpm\\da_18_huynh\\da_18_huynh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{323E534D-B0A9-4516-8B6F-91314A44480A}|DA_18_Huynh\\DA_18_Huynh.csproj|solutionrelative:da_18_huynh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9DE400-0DB3-494E-9BD9-0F133719813B}|TestPT2_18\\TestPT2_18.csproj|D:\\ktpm\\DA_18_Huynh\\testpt2_18\\testpt2_18_huynh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9DE400-0DB3-494E-9BD9-0F133719813B}|TestPT2_18\\TestPT2_18.csproj|solutionrelative:testpt2_18\\testpt2_18_huynh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E4CC03-6B69-4BC0-BDE8-47674410B2CC}|TestPT1_18\\TestPT1_18.csproj|D:\\ktpm\\DA_18_Huynh\\testpt1_18\\testpt1_18_huynh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E4CC03-6B69-4BC0-BDE8-47674410B2CC}|TestPT1_18\\TestPT1_18.csproj|solutionrelative:testpt1_18\\testpt1_18_huynh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{323E534D-B0A9-4516-8B6F-91314A44480A}|DA_18_Huynh\\DA_18_Huynh.csproj|D:\\ktpm\\DA_18_Huynh\\da_18_huynh\\giaipt_18_huynh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{323E534D-B0A9-4516-8B6F-91314A44480A}|DA_18_Huynh\\DA_18_Huynh.csproj|solutionrelative:da_18_huynh\\giaipt_18_huynh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E4CC03-6B69-4BC0-BDE8-47674410B2CC}|TestPT1_18\\TestPT1_18.csproj|D:\\ktpm\\DA_18_Huynh\\testpt1_18\\data\\testdata.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A1E4CC03-6B69-4BC0-BDE8-47674410B2CC}|TestPT1_18\\TestPT1_18.csproj|solutionrelative:testpt1_18\\data\\testdata.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{323E534D-B0A9-4516-8B6F-91314A44480A}|DA_18_Huynh\\DA_18_Huynh.csproj|D:\\ktpm\\DA_18_Huynh\\da_18_huynh\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{323E534D-B0A9-4516-8B6F-91314A44480A}|DA_18_Huynh\\DA_18_Huynh.csproj|solutionrelative:da_18_huynh\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9DE400-0DB3-494E-9BD9-0F133719813B}|TestPT2_18\\TestPT2_18.csproj|D:\\ktpm\\DA_18_Huynh\\testpt2_18\\data\\testdata.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DD9DE400-0DB3-494E-9BD9-0F133719813B}|TestPT2_18\\TestPT2_18.csproj|solutionrelative:testpt2_18\\data\\testdata.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7ACF41-EB57-4208-B7BB-6A5831F72826}|TestGiaiPT_18\\TestGiaiPT.csproj|D:\\ktpm\\DA_18_Huynh\\testgiaipt_18\\testgiaipt_18.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7ACF41-EB57-4208-B7BB-6A5831F72826}|TestGiaiPT_18\\TestGiaiPT.csproj|solutionrelative:testgiaipt_18\\testgiaipt_18.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{323E534D-B0A9-4516-8B6F-91314A44480A}|DA_18_Huynh\\DA_18_Huynh.csproj|D:\\ktpm\\DA_18_Huynh\\da_18_huynh\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{323E534D-B0A9-4516-8B6F-91314A44480A}|DA_18_Huynh\\DA_18_Huynh.csproj|solutionrelative:da_18_huynh\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{323E534D-B0A9-4516-8B6F-91314A44480A}|DA_18_Huynh\\DA_18_Huynh.csproj|D:\\ktpm\\DA_18_Huynh\\da_18_huynh\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{323E534D-B0A9-4516-8B6F-91314A44480A}|DA_18_Huynh\\DA_18_Huynh.csproj|solutionrelative:da_18_huynh\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{323E534D-B0A9-4516-8B6F-91314A44480A}|DA_18_Huynh\\DA_18_Huynh.csproj|D:\\ktpm\\DA_18_Huynh\\da_18_huynh\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{323E534D-B0A9-4516-8B6F-91314A44480A}|DA_18_Huynh\\DA_18_Huynh.csproj|solutionrelative:da_18_huynh\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 27,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 102,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ktpm\\DA_18_Huynh\\DA_18_Huynh\\Program.cs",
+              "RelativeDocumentMoniker": "DA_18_Huynh\\Program.cs",
+              "ToolTip": "D:\\ktpm\\DA_18_Huynh\\DA_18_Huynh\\Program.cs",
+              "RelativeToolTip": "DA_18_Huynh\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T12:39:15.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "D:\\ktpm\\DA_18_Huynh\\DA_18_Huynh\\Form2.cs",
+              "RelativeDocumentMoniker": "DA_18_Huynh\\Form2.cs",
+              "ToolTip": "D:\\ktpm\\DA_18_Huynh\\DA_18_Huynh\\Form2.cs [Design]",
+              "RelativeToolTip": "DA_18_Huynh\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T04:03:42.131Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\ktpm\\DA_18_Huynh\\DA_18_Huynh\\Form2.cs",
+              "RelativeDocumentMoniker": "DA_18_Huynh\\Form2.cs",
+              "ToolTip": "D:\\ktpm\\DA_18_Huynh\\DA_18_Huynh\\Form2.cs",
+              "RelativeToolTip": "DA_18_Huynh\\Form2.cs",
+              "ViewState": "AQIAAJkAAAAAAAAAAAAAAJkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T04:04:06.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\ktpm\\DA_18_Huynh\\Test_Web_18\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Test_Web_18\\UnitTest1.cs",
+              "ToolTip": "D:\\ktpm\\DA_18_Huynh\\Test_Web_18\\UnitTest1.cs",
+              "RelativeToolTip": "Test_Web_18\\UnitTest1.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAArwFYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T04:20:26.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TestPT1_18_Huynh.cs",
+              "DocumentMoniker": "D:\\ktpm\\DA_18_Huynh\\TestPT1_18\\TestPT1_18_Huynh.cs",
+              "RelativeDocumentMoniker": "TestPT1_18\\TestPT1_18_Huynh.cs",
+              "ToolTip": "D:\\ktpm\\DA_18_Huynh\\TestPT1_18\\TestPT1_18_Huynh.cs",
+              "RelativeToolTip": "TestPT1_18\\TestPT1_18_Huynh.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAkwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T04:30:18.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestPT2_18_Huynh.cs",
+              "DocumentMoniker": "D:\\ktpm\\DA_18_Huynh\\TestPT2_18\\TestPT2_18_Huynh.cs",
+              "RelativeDocumentMoniker": "TestPT2_18\\TestPT2_18_Huynh.cs",
+              "ToolTip": "D:\\ktpm\\DA_18_Huynh\\TestPT2_18\\TestPT2_18_Huynh.cs",
+              "RelativeToolTip": "TestPT2_18\\TestPT2_18_Huynh.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAvwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T04:33:11.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GiaiPT_18_Huynh.cs",
+              "DocumentMoniker": "D:\\ktpm\\DA_18_Huynh\\DA_18_Huynh\\GiaiPT_18_Huynh.cs",
+              "RelativeDocumentMoniker": "DA_18_Huynh\\GiaiPT_18_Huynh.cs",
+              "ToolTip": "D:\\ktpm\\DA_18_Huynh\\DA_18_Huynh\\GiaiPT_18_Huynh.cs",
+              "RelativeToolTip": "DA_18_Huynh\\GiaiPT_18_Huynh.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAA7wDYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T04:11:05.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TestData.csv",
+              "DocumentMoniker": "D:\\ktpm\\DA_18_Huynh\\TestPT1_18\\Data\\TestData.csv",
+              "RelativeDocumentMoniker": "TestPT1_18\\Data\\TestData.csv",
+              "ToolTip": "D:\\ktpm\\DA_18_Huynh\\TestPT1_18\\Data\\TestData.csv",
+              "RelativeToolTip": "TestPT1_18\\Data\\TestData.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-06-03T04:32:15.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\ktpm\\DA_18_Huynh\\DA_18_Huynh\\Form1.cs",
+              "RelativeDocumentMoniker": "DA_18_Huynh\\Form1.cs",
+              "ToolTip": "D:\\ktpm\\DA_18_Huynh\\DA_18_Huynh\\Form1.cs [Design]",
+              "RelativeToolTip": "DA_18_Huynh\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T04:03:17.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TestData.csv",
+              "DocumentMoniker": "D:\\ktpm\\DA_18_Huynh\\TestPT2_18\\Data\\TestData.csv",
+              "RelativeDocumentMoniker": "TestPT2_18\\Data\\TestData.csv",
+              "ToolTip": "D:\\ktpm\\DA_18_Huynh\\TestPT2_18\\Data\\TestData.csv",
+              "RelativeToolTip": "TestPT2_18\\Data\\TestData.csv",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-06-03T04:33:47.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TestGiaiPT_18.cs",
+              "DocumentMoniker": "D:\\ktpm\\DA_18_Huynh\\TestGiaiPT_18\\TestGiaiPT_18.cs",
+              "RelativeDocumentMoniker": "TestGiaiPT_18\\TestGiaiPT_18.cs",
+              "ToolTip": "D:\\ktpm\\DA_18_Huynh\\TestGiaiPT_18\\TestGiaiPT_18.cs",
+              "RelativeToolTip": "TestGiaiPT_18\\TestGiaiPT_18.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwDEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T04:26:41.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "D:\\ktpm\\DA_18_Huynh\\DA_18_Huynh\\Form3.cs",
+              "RelativeDocumentMoniker": "DA_18_Huynh\\Form3.cs",
+              "ToolTip": "D:\\ktpm\\DA_18_Huynh\\DA_18_Huynh\\Form3.cs",
+              "RelativeToolTip": "DA_18_Huynh\\Form3.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAArwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T04:09:10.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "D:\\ktpm\\DA_18_Huynh\\DA_18_Huynh\\Form3.cs",
+              "RelativeDocumentMoniker": "DA_18_Huynh\\Form3.cs",
+              "ToolTip": "D:\\ktpm\\DA_18_Huynh\\DA_18_Huynh\\Form3.cs [Design]",
+              "RelativeToolTip": "DA_18_Huynh\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T04:08:48.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\ktpm\\DA_18_Huynh\\DA_18_Huynh\\Form1.cs",
+              "RelativeDocumentMoniker": "DA_18_Huynh\\Form1.cs",
+              "ToolTip": "D:\\ktpm\\DA_18_Huynh\\DA_18_Huynh\\Form1.cs",
+              "RelativeToolTip": "DA_18_Huynh\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T04:14:15.959Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
